@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <peter>
+    <p>pato</p>
 </body>
 </html>
